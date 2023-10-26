@@ -1,7 +1,7 @@
 package com.oheers.fish.api.addons.exceptions;
 
 
-import org.apache.commons.lang.SystemUtils;
+import org.apache.commons.lang3.SystemUtils;
 import org.apache.commons.lang3.JavaVersion;
 import org.jetbrains.annotations.NotNull;
 
